@@ -1,0 +1,53 @@
+.Stress{
+    padding-left: 10%;
+    color: rgb(253, 253, 252);
+    
+}
+body{
+    background-color: cadetblue;
+}
+.div1{
+    background-image:url("https://4kwallpapers.com/images/walls/thumbs_3t/3932.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ height:600px;
+ padding-top: 0%;
+}
+.div2{
+    background-image:url("https://www.aucegypt.edu/sites/default/files/styles/banner/public/2020-03/shutterstock_1452524699.jpg?itok=3cMMjlN-");
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 500px;
+ width:100%;
+}
+.div3{
+    background-image:url("https://www.narayanahealth.org/blog/wp-content/uploads/2020/08/shutterstock_777016792-Converted-01.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 1150px;
+ width:100%;
+}
+.para {
+    font-size: 30px;color:pink; text-shadow: 2px 2px #FF0000;font-weight: 600;padding-left: 5%;
+
+}
+.in {
+    font-size: 60px;
+}
+.container{
+      font-size: 30px;
+      color: crimson;
+      text-shadow:2px 2px rgb(34, 39, 26);
+      font-weight: 400;
+}
+.head {
+    color:rgb(201, 206, 135);
+    text-shadow:1px 1px crimson;
+    font-weight: 500;
+}
+.par {
+    color:rgb(212, 147, 103);
+      text-shadow:2px 2px rgb(40, 36, 44);   
+      font-weight: 500;
+}
+
